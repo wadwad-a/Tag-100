@@ -24,10 +24,11 @@ You can play my game on [itch.io](https://wadwad-a.itch.io/tag-100)!
 ## 🛠️ Credits
 
 - **Sound Effects & Music:** Found using [Pixabay](https://pixabay.com/).
-- **Assets:** All assets were designed by me (Wadwad A).
+- **Assets:** All assets were designed by me (Wadwad A) using Piskel.
 - **Code:** All code was written by me, with some help from AI to learn and understand Godot.
 
 ## 🧰 Built With
 
 - [Godot Engine](https://godotengine.org/)
 - GDScript
+- [Piskel](https://piskelapp.com)
