@@ -10,6 +10,8 @@ Every second you spend as the runner earns you **1 point**. Once you get tagged,
 
 In addition to basic movement (left, right, and jump), each player has a **boost ability** that provides 2x movement speed and a 1.5x jump boost.
 
+You can play my game on [itch.io](https://wadwad-a.itch.io/tag-100)!
+
 ## 🎮 Controls
 
 | Action | Player 1 | Player 2 |
